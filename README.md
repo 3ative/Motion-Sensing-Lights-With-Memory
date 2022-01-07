@@ -37,8 +37,7 @@ if (msg.payload === "trigger_on") {
 return msg
 ```
 
-# Watch the step-by-step build guide here: https://youtu.be/hADsxDkyFeA
-
+# Watch the step-by-step build guide here: Coming Soon
 
 🎁 Found this useful or want to say 'thanks' and support my efforts...
 
