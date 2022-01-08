@@ -1,8 +1,8 @@
 # Motion Sensing Lights With Memory
 
-A Simple setup to change the colour, or even run an effect when motion (or any trigger) is detected. Then return the Light to its previous state.
+A simple setup to change the colour, or even run an effect when motion (or any trigger) is detected. Then return the Light to its previous state.
 
-### Watch the step-by-step tutorial here: https://youtu.be/9BZuC-LA_XI
+> - ### Watch the step-by-step tutorial here: https://youtu.be/9BZuC-LA_XI
 
 ## Function Node Code:
 ```yaml
