@@ -2,6 +2,8 @@
 
 A Simple setup to change the colour, or even run an effect when motion (or any trigger) is detected. Then return the Light to its previous state.
 
+### Watch the step-by-step tutorial here: https://youtu.be/9BZuC-LA_XI
+
 ## Function Node Code:
 ```yaml
 // Enter your Light entity and if used the Effect Name
@@ -37,7 +39,7 @@ if (msg.payload === "trigger_on") {
 return msg
 ```
 
-# Watch the step-by-step build guide here: Coming Soon
+
 
 🎁 Found this useful or want to say 'thanks' and support my efforts...
 
