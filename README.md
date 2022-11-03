@@ -39,6 +39,7 @@ if (msg.payload === "trigger_on") {
 return msg
 ```
 
+___
 #### 💖 Found this useful, want to say '*Thanks*' and support my efforts. *CHEERS*🍺
 | Buy me a Coffee | PATREON |
 |-----------------|---------|
